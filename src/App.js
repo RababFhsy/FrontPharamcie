@@ -3,7 +3,6 @@ import Main from "./pages/Main";
 import Products from "./pages/Products";
 import {
   BrowserRouter as Router,
-  Switch,
   Route,
   Routes,
 } from "react-router-dom";

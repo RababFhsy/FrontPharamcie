@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 18px;
+    grid-row-gap: 18px;
+    margin-top: 2em;
+    }
